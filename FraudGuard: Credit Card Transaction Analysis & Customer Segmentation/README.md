@@ -1,0 +1,5 @@
+Developed a robust system for detecting fraudulent credit card transactions, enabling financial institutions to mitigate fraud risks and enhance transaction security. The system utilized advanced feature engineering techniques to extract relevant attributes from raw transaction data, improving model accuracy and interpretability.
+
+A Logistic Regression model was trained to classify transactions as legitimate or fraudulent, achieving high precision and recall through careful tuning and validation. The model's performance was assessed using metrics such as Confusion Matrix, ROC-AUC, and Precision-Recall Curve to ensure it minimized false positives and false negatives.
+
+Additionally, customer segmentation was performed using MySQL to analyze transaction patterns and categorize customers based on their spending behaviors, providing actionable insights for targeted marketing and personalized services. The integration of Jupyter Notebook for exploratory analysis, along with Python for model development and MySQL for data manipulation, facilitated a comprehensive approach to fraud detection and customer insights.
